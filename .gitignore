@@ -1,0 +1,8 @@
+code.ipynb
+beijing+pm2+5+data/
+best_gru.pth
+best_lstm.pth
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
